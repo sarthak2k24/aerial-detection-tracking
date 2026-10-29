@@ -1,0 +1,11 @@
+build/
+cmake-build-*/
+.vs/
+.vscode/
+.idea/
+models/*.onnx
+models/*.pt
+*.pt
+*.mp4
+*.avi
+__pycache__/
